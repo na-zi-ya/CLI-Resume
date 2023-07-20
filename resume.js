@@ -76,6 +76,39 @@ export const resume = () => {
             { name: "5", message: "Expert" }
           ],
         },
+        {
+          name: "6",
+          message: "Node",
+          scale: [
+            { name: "1", message: "No Experience" },
+            { name: "2", message: "Beginner" },
+            { name: "3", message: "Intermediate" },
+            { name: "4", message: "Advanced" },
+            { name: "5", message: "Expert" }
+          ],
+        },
+        {
+          name: "7",
+          message: "Mongo",
+          scale: [
+            { name: "1", message: "No Experience" },
+            { name: "2", message: "Beginner" },
+            { name: "3", message: "Intermediate" },
+            { name: "4", message: "Advanced" },
+            { name: "5", message: "Expert" }
+          ],
+        },
+        {
+          name: "8",
+          message: "Express",
+          scale: [
+            { name: "1", message: "No Experience" },
+            { name: "2", message: "Beginner" },
+            { name: "3", message: "Intermediate" },
+            { name: "4", message: "Advanced" },
+            { name: "5", message: "Expert" }
+          ],
+        },
       ],
     },
   ];
